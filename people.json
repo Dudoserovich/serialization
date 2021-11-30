@@ -1,0 +1,14 @@
+[
+	{
+	"firstName": "Егор", 
+	"lastName": "Хмелевский", 
+	"yearOfBirth": "2001", 
+	"address": "Не скажу, 404"
+	},
+	{
+	"firstName": "Анастасия", 
+	"lastName": "Косицына", 
+	"yearOfBirth": "2001", 
+	"address": "Не скажу, 404"
+	}
+]
